@@ -1,0 +1,2 @@
+Escape seq
+{zavin @@ @afgd @}

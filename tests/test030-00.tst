@@ -1,0 +1,1 @@
+@def@makro{}{ahoj} @makro

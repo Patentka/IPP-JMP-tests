@@ -1,0 +1,1 @@
+@def{blok}@makro{blok}
